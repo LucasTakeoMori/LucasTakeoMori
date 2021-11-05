@@ -3,7 +3,7 @@
 - 🔭 Hoje estudo para me tornar um front-end
 - 🌱 Estudando JavaScript
 - 🎒 Aluno na Kenzie 
-- 📫 Conta-te meno email: mori_lucas@outlook.com
+- 📫 Contato: mori_lucas@outlook.com
 - 😄 Pronome: Ele/Dele
 
 <div>
