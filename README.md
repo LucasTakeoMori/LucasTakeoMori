@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Takeo Mori
 
 - 🔭 Hoje estudo para me tornar um front-end
-- 🌱 Estudando JavaScript 
+- 🌱 Estudando JavaScripit, TypeScript e React.JS
 - 📫 Contato: mori_lucas@outlook.com
 - 😄 Pronome: Ele/Dele
 
