@@ -16,10 +16,13 @@
     <img align="center" alt="HTML-5" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
 
-##
 <div>
   <a href="https://github.com/LucasTakeoMori">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasTakeoMori&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTakeoMori&layout=compact&langs_count=7&theme=omni"/>
 </div>
+
+## Contacts
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucastakeomoridev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucastakeodev@gmail.com)
  </div>
