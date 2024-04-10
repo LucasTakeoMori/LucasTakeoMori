@@ -1,4 +1,4 @@
-<h2> Hello everyone, I'm Lucas</h2>
+<h2> Hi there,  I'm Lucas👋</h2>
 
 - 🔥  Júnior Web Developer Full Stack
 - ⌨️  working on <a href="https://wsac.com.br/">wSAC</a>
