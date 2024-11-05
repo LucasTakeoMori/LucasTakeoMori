@@ -1,6 +1,6 @@
 <h2> Olá, eu sou Lucas! 👋</h2>
 
-- 🔥 Desenvolvedor Web Full Stack Júnior
+- 🔥 Desenvolvedor Web Full Stack
 - ⌨️ Trabalhando na <a href="https://wsac.com.br/">wSAC</a>
 - 💻 Portfólio em construção
 - 🚀 Estudante na <a href="https://www.rocketseat.com.br/">RocketSeat</a>
