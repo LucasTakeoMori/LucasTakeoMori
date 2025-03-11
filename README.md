@@ -17,7 +17,7 @@
 ## About Me
 
 - 🌟 **Passionate Developer:** Enthusiastic about building modern web applications and solving complex problems.
-- 💼 **Current Role:** Full Stack Developer at [Your Company](https://yourcompany.com)
+- 💼 **Current Role:** Full Stack Developer at [Wsac](https://wsac.com.br/)
 - 📚 **Learning:** Continuously improving my skills in React, Node.js, and cloud technologies.
 - 💬 **Ask me about:** JavaScript, TypeScript, React, Node.js, and software architecture.
 - ⚡ **Fun Fact:** I love playing chess and hiking in my free time.
