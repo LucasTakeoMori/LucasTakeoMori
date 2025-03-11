@@ -1,29 +1,72 @@
-<h2> Olá, eu sou Lucas! 👋</h2>
+<h1 align="center">Hi there, I'm Lucas Takeo Mori 👋</h1>
 
-- 🔥 Desenvolvedor Web Full Stack
-- ⌨️ Trabalhando na <a href="https://wsac.com.br/">wSAC</a>
-- 💻 Portfólio em construção
-- 🚀 Estudante na <a href="https://www.rocketseat.com.br/">RocketSeat</a>
-- 🌳 Em busca de me tornar uma versão aprimorada de mim mesmo
-
-## Stack Tecnológico 📚
-<div style="display: inline_block"> <br/>
-    <img align="center" alt="HTML-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="HTML-5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="HTML-5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="HTML-5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img align="center" alt="HTML-5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="HTML-5" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</div>
-
-##
-
-<div>
+<p align="center">
   <a href="https://github.com/LucasTakeoMori">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasTakeoMori&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTakeoMori&layout=compact&langs_count=7&theme=omni"/>
-</div>
+    <img src="https://img.shields.io/github/followers/LucasTakeoMori?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://linkedin.com/in/lucas-takeo-mori">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mori_lucas@outlook.com>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=social&logo=gmail" alt="Email" />
+  </a>
+</p>
 
-## Contatos
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucastakeomoridev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucastakeodev@gmail.com)
+---
+
+## About Me
+
+- 🌟 **Passionate Developer:** Enthusiastic about building modern web applications and solving complex problems.
+- 💼 **Current Role:** Full Stack Developer at [Your Company](https://yourcompany.com)
+- 📚 **Learning:** Continuously improving my skills in React, Node.js, and cloud technologies.
+- 💬 **Ask me about:** JavaScript, TypeScript, React, Node.js, and software architecture.
+- ⚡ **Fun Fact:** I love playing chess and hiking in my free time.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Frontend:**
+  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+  - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+- **Backend:**
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  - ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+  - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+- **Database:**
+  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+- **DevOps & Cloud:**
+  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  - ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasTakeoMori&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTakeoMori&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/lucas-takeo-mori">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mori_lucas@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail" alt="Email" />
+  </a>
+</p>
