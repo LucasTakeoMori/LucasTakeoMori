@@ -1,5 +1,19 @@
 <h1 align="center">Hi there, I'm Lucas Takeo Mori 👋</h1>
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LucasTakeoMori&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasTakeoMori&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTakeoMori&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasTakeoMori&theme=radical" alt="Profile Details" />
+</p>
+
+---
+
 <p align="center">
   <a href="https://github.com/LucasTakeoMori">
     <img src="https://img.shields.io/github/followers/LucasTakeoMori?label=Follow&style=social" alt="GitHub Followers" />
@@ -50,20 +64,6 @@
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
   - ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LucasTakeoMori&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasTakeoMori&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTakeoMori&layout=compact&theme=radical" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasTakeoMori&theme=radical" alt="Profile Details" />
-</p>
-
 ---
 
 ## 📫 Contact Me
