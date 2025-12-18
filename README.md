@@ -1,75 +1,56 @@
-<h1 align="center">Hi there, I'm Lucas Takeo Mori 👋</h1>
-
-## 📈 GitHub Stats
-
+<h1 align="center">Lucas Takeo Mori</h1>
 <p align="center">
-  <img style="width: 48%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=LucasTakeoMori&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img style="width: 48%; height: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasTakeoMori&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img style="width: 48%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTakeoMori&layout=compact&theme=radical" alt="Top Languages" />
-  <img style="width: 48%; height: auto;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasTakeoMori&theme=radical" alt="Profile Details" />
+  Full Stack Developer · .NET · Angular · React · Azure · Power Platform
 </p>
 
 <p align="center">
   <a href="https://github.com/LucasTakeoMori">
-    <img src="https://img.shields.io/github/followers/LucasTakeoMori?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/GitHub-LucasTakeoMori-181717?style=flat&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/lucas-takeo-mori">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/lucastakeomoridev">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Takeo%20Mori-0A66C2?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:mori_lucas@outlook.com>
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=social&logo=gmail" alt="Email" />
+  <a href="mailto:mori_lucas@outlook.com">
+    <img src="https://img.shields.io/badge/Email-mori__lucas%40outlook.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## About Me
+## About
 
-- 🌟 **Passionate Developer:** Enthusiastic about building modern web applications and solving complex problems.
-- 📚 **Learning:** Continuously improving my skills in React, Node.js, and cloud technologies.
-- 💬 **Ask me about:** JavaScript, TypeScript, React, Node.js, and software architecture.
-- ⚡ **Fun Fact:** I love playing chess and hiking in my free time.
+- Full stack dev com foco em **aplicações web** e **APIs** usando React/Next.js, Node.js e ASP.NET Core (.NET).  
+- Experiência com **Azure WebApps**, **CI/CD**, bancos relacionais (PostgreSQL, SQL Server) e **Power Platform** (Power Apps + Power Automate).  
+- Interesse atual: consolidar stack **Microsoft (.NET, Angular, Azure)** e boas práticas de arquitetura, testes e automação.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Main Stack
 
-- **Frontend:**
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-  - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-  - ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-  - ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-000000?style=flat&logo=shadcn&logoColor=white)
-  - ![Hero UI](https://img.shields.io/badge/-Hero%20UI-00BFFF?style=flat&logo=hero&logoColor=white)
+**Backend**
 
-- **Backend:**
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  - ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-  - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ASP.NET Core (.NET) · Node.js · TypeScript  
+- RESTful APIs · GraphQL · Entity Framework · RabbitMQ/Service Bus
 
-- **Database:**
-  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+**Frontend**
 
-- **DevOps & Cloud:**
-  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-  - ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+- React · Next.js · Angular  
+- TypeScript · Angular Material · Componentização e SPAs
+
+**Data & Cloud**
+
+- PostgreSQL · SQL Server · Supabase  
+- Azure WebApps · Docker · CI/CD (Git, CircleCI, GitHub Actions)
+
+**Power Platform**
+
+- Power Apps · Power Automate · Integração com SharePoint/Listas
+
 ---
 
-## 📫 Contact Me
+## GitHub Highlights
 
 <p align="center">
-  <a href="https://linkedin.com/in/lucas-takeo-mori">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mori_lucas@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail" alt="Email" />
-  </a>
+  <img style="width: 48%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=LucasTakeoMori&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img style="width: 48%; height: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasTakeoMori&theme=radical" alt="GitHub Streak" />
 </p>
