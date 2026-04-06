@@ -1,71 +1,52 @@
-<!-- Hero Section -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C4FF&center=true&vCenter=true&width=600&lines=Lucas+Takeo+Mori;Full+Stack+Developer;React+%7C+.NET+%7C+Angular+%7C+Azure+%7C+Power+Platform" alt="Typing SVG" />
-  
-  <br/><br/>
-
-  <!-- Ilustração tech genérica (pode trocar o link se quiser outro estilo) -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="600" alt="GitHub Snake"/>
-
-  <p>
-    <b>Full Stack Dev focado em web moderna, APIs e ecossistema Microsoft.</b>
-  </p>
-
-  <p>
-    <a href="https://github.com/LucasTakeoMori">
-      <img src="https://img.shields.io/badge/GitHub-LucasTakeoMori-181717?style=flat&logo=github" />
-    </a>
-    <a href="https://linkedin.com/in/lucastakeomoridev">
-      <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Takeo%20Mori-0A66C2?style=flat&logo=linkedin" />
-    </a>
-    <a href="mailto:mori_lucas@outlook.com">
-      <img src="https://img.shields.io/badge/Email-mori__lucas%40outlook.com-EA4335?style=flat&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-</div>
-
----
-
-## 👨‍💻 About
-
-- Full stack developer atuando com **React/Next.js**, **Node.js** e **ASP.NET Core (.NET)** em APIs e produtos web.  
-- Experiência com **Azure WebApps**, **CI/CD**, bancos relacionais (PostgreSQL, SQL Server) e **Power Platform** (Power Apps + Power Automate).  
-- Focado em consolidar stack **Microsoft (.NET, Angular, Azure)** e boas práticas de arquitetura, testes e automação.
-
----
-
-## 🧱 Main Stack
-
 <div align="center">
 
-### Backend
-`ASP.NET Core (.NET)` · `Node.js` · `TypeScript`  
-`REST APIs` · `GraphQL` · `Entity Framework` · `RabbitMQ / Service Bus`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Lucas+Takeo+Mori;Back-end+%26+Full+Stack+Dev;Node.js+%7C+NestJS+%7C+TypeScript+%7C+React;Building+things+that+actually+matter+%F0%9F%9A%80" alt="Typing SVG" />
 
-### Frontend
-`React` · `Next.js` · `Angular`  
-`TypeScript` · `Angular Material` · `SPA / Componentização`
-
-### Data & Cloud
-`PostgreSQL` · `SQL Server` · `Supabase`  
-`Azure WebApps` · `Docker` · `CI/CD (Git, CircleCI, GitHub Actions)`
-
-### Power Platform
-`Power Apps` · `Power Automate` · `SharePoint / Lists`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucastakeomoridev/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mori_lucas@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://coaxty.com)
 
 </div>
 
 ---
 
+Comecei na área como suporte técnico — foi onde aprendi SQL de verdade e percebi que queria estar do outro lado, construindo os sistemas que eu debugava.
+
+Hoje trabalho como desenvolvedor back-end e full stack, construindo **APIs**, **sistemas financeiros**, **automações** e **integrações com IA** em produção. Tenho orgulho de escrever código que resolve problema de verdade, não só que passa no lint.
+
+Alguns números do caminho: **-15% no tempo de resposta de APIs**, **-30% no tempo de suporte operacional** com automações, e chatbots com IA rodando em produção.
+
+---
+
+### Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+---
+
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=LucasTakeoMori&show_icons=true&hide_title=false&hide_border=true&theme=radical" 
-    alt="GitHub Stats" 
-    height="150"
-/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTakeoMori&layout=compact&hide_border=true&theme=radical" 
-    alt="Top Languages" 
-    height="150"
-/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LucasTakeoMori&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTakeoMori&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LucasTakeoMori&theme=dracula&hide_border=true" height="175em"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="680"/>
 </div>
